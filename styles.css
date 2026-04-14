@@ -24,12 +24,12 @@ header {
 }
 
 h1, h2 {
-    font-family: Garamond;
+    font-family: Georgia;
 }
 
 a {
     color: #0000EE;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
     a:hover {
