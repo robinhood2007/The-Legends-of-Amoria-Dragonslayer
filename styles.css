@@ -3,7 +3,7 @@ body {
     background-color: #ffffff;
     color: #111;
     max-width: 720px;
-    margin: 8px;
+    margin: 0rem;
     padding: 8px;
     line-height: 1.7;
     
@@ -11,7 +11,7 @@ body {
 
 header {
     text-align: left;
-    margin-bottom: 8px;
+    margin-bottom: 0rem;
 }
 
 .symbol {
@@ -36,11 +36,11 @@ a {
 
 .chapter-list {
     list-style: none;
-    padding-left: 0px;
+    padding-left: 0rem;
 }
 
     .chapter-list li {
-        margin-bottom: 0px;
+        margin-bottom: 0rem;
     }
 
 footer {
