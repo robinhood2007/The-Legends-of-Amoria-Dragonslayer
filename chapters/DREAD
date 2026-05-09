@@ -1,1 +1,7 @@
-<img src="IMG_0808.jpeg" alt="Description of the image" width="500" height="300">
+<!DOCTYPE html>
+<html lang="en">
+  <main>
+    <img src="page 1.png" alt="Comic page 1">
+    <img src="page 2.png" alt="Comic page 2">
+    <img src="page 3.png" alt="Comic page 3">
+    <img src="page 4.png" alt="Comic page 4">
