@@ -4,14 +4,14 @@ body {
     color: #111;
     max-width: 720px;
     margin: 8px;
-    padding: 0rem;
+    padding: 8px;
     line-height: 1.7;
     
 }
 
 header {
     text-align: left;
-    margin-bottom: 0rem;
+    margin-bottom: 8px;
 }
 
 .symbol {
@@ -36,7 +36,7 @@ a {
 
 .chapter-list {
     list-style: none;
-    padding-left: 0;
+    padding-left: 0px;
 }
 
     .chapter-list li {
