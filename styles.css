@@ -6,7 +6,7 @@ body {
     margin: 8px;
     padding: 8px;
     line-height: 1.7;
-    text-align: center;
+    text-align: left;
     
 }
 
@@ -24,7 +24,7 @@ header {
 .tagline {
     font-style: italic;
     color: #111;
-    text-align: center;
+    text-align: left;
 }
 
 h1, h2 {
