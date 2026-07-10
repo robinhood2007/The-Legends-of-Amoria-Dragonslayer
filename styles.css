@@ -6,7 +6,7 @@ body {
     margin: 0 auto;
     padding: 8px;
     line-height: 1.7;
-    
+    text-align: center;
 }
 
 header {
@@ -23,7 +23,7 @@ header {
 .tagline {
     font-style: italic;
     color: #111;
-    text-align: left;
+    text-align: center;
 }
 
 h1, h2 {
@@ -74,7 +74,8 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
-    text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body.index-page {
@@ -82,5 +83,17 @@ body.index-page {
 }
 
 body.index-page .tagline {
+    text-align: left;
+}
+
+body.index-page h2 {
+    text-align: left;
+}
+
+body.index-page main p {
+    text-align: left;
+}
+
+body.index-page .chapter-list {
     text-align: left;
 }
