@@ -3,10 +3,9 @@ body {
     background-color: #ffffff;
     color: #111;
     max-width: 720px;
-    margin: 8px;
+    margin: 0 auto;
     padding: 8px;
     line-height: 1.7;
-    text-align: left;
     
 }
 
@@ -77,3 +76,10 @@ img {
   display: block;
 }
 
+body.index-page {
+    text-align: center;
+}
+
+body.index-page .tagline {
+    text-align: center;
+}
