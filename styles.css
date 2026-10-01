@@ -20,6 +20,12 @@ header {
     text-align: center;
 }
 
+.logo {
+    max-width: 100px;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
 .tagline {
     font-style: italic;
     color: #111;
